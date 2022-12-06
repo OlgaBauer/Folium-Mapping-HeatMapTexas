@@ -1,3 +1,3 @@
 # Folium-Mapping-HeatMapTexas
 Plotting Heat Maps in Python using Folium library to create interactive visualization.
-https://olgabauer.github.io/Folium-Mapping-HeatMapTexas/
+You can explore this map [as its own web page here] https://olgabauer.github.io/Folium-Mapping-HeatMapTexas/
